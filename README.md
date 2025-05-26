@@ -9,7 +9,7 @@ Python, Core Java, MySQL, RestAPI, Jupyter, Data Analysis, Data Strcutures and A
 JavaScript, React
 
 ### 📫 How to reach me  
-sumanthm733311@gmail.com
+sanjanareddythoudu@gmail.com
 
 ### 📄 Know about my experiences  
 
